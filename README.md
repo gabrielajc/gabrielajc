@@ -10,6 +10,8 @@
 
 :outbox_tray: 2022 Goals: complete projects for all the frameworks I learn, be able to do fullstack projects and become a Junior Systems Analyst.
 
+[![gabrielajc GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielac)](https://github.com/gabrielajc/github-readme-stats)
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/)
