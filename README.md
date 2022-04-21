@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm Gabriela Clemente Joaquim!
+### I'm Gabriela Clemente Joaquim!
 
 :computer: I'm Front-End Developer, on a journey to be a Fullstack!
 
@@ -12,7 +12,7 @@
 
 [![gabrielajc GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple)](https://github.com/gabrielajc/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple)](https://github.com/gabrielajc/github-readme-stats)
 
-## About me
+### About
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/)
 
