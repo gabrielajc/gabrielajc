@@ -2,7 +2,7 @@
 
 
 ### I'm Gabriela Clemente Joaquim!
- <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+<code><img height= "20"src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code> <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 
 :computer: Systems Analysis and Development student, I'm Front-End Developer, on a journey to be a Fullstack!
 
