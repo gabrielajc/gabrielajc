@@ -1,8 +1,5 @@
-<head> 
-<link href="style.css" rel="stylesheet">
-</head>
 
-**<h1> Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>**
+:**<h1> Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>**:
 
 
 [![Front-End Developer, on a journey to be a Fullstack](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)](https://git.io/gabrielajc)
