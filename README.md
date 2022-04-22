@@ -1,8 +1,8 @@
-# Hello Wowld ![image](https://user-images.githubusercontent.com/88867709/164569064-87952040-702b-41ff-980b-4ce75cdee363.png)
+# Hello Wowld ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 ### I'm Gabriela Clemente Joaquim!
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<img src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white> <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 
 :computer: Systems Analysis and Development student, I'm Front-End Developer, on a journey to be a Fullstack!
 
