@@ -1,6 +1,7 @@
-# Hello Wowld ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-### I'm Gabriela Clemente!
+[![Digitando SVG](https://readme-typing-svg.herokuapp.com/ ?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack! )]
+
 :computer: Systems Analysis and Development student, I'm Front-End Developer, on a journey to be a Fullstack! 
 
 :house_with_garden: I’m from Brazil. 
