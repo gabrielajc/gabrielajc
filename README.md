@@ -11,6 +11,7 @@
 
 ### Linguages and Tools.
 <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
 [![gabrielajc GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues)](https://github.com/gabrielajc/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html)](https://github.com/gabrielajc/github-readme-stats)
 
 ### About
