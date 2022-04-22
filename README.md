@@ -1,6 +1,6 @@
 # Hello Wowld ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-### I'm Gabriela Clemente Joaquim!
+### I'm Gabriela Clemente!
 :computer: Systems Analysis and Development student, I'm Front-End Developer, on a journey to be a Fullstack! 
 
 :house_with_garden: I’m from Brazil. 
