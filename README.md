@@ -8,7 +8,7 @@
 <h6 align="center">
 :computer: Systems Analysis and Development student, I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript. <br>
 :rocket: 2022 Goals: complete projects for all the frameworks I learn, be able to do fullstack projects and become a Junior Systems Analyst.
-</h6>
+</h5>
 
 **<h3 align="center"> Linguages and Tools.</h3>**
 <div align="center">
