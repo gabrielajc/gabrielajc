@@ -1,12 +1,8 @@
 # Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-[![Digitando SVG](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)
+[![Front-End Developer, on a journey to be a Fullstack](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)
 
-:computer: Systems Analysis and Development student, I'm Front-End Developer, on a journey to be a Fullstack! 
-
-:house_with_garden: I’m from Brazil. 
-
-:books: I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript 
+:computer: Systems Analysis and Development student, I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript.
 
 :rocket: 2022 Goals: complete projects for all the frameworks I learn, be able to do fullstack projects and become a Junior Systems Analyst.
 
