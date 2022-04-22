@@ -2,11 +2,11 @@
 **<h1> Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>**
 
 [![Front-End Developer, on a journey to be a Fullstack](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)](https://git.io/gabrielajc) <br> 
-<h6>
+<h5>
 :computer: Systems Analysis and Development student, I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript.
   
 :rocket: 2022 Goals: complete projects for all the frameworks I learn, be able to do fullstack projects and become a Junior Systems Analyst.
-</h6>
+</h5>
 
 ### Linguages and Tools.
 <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
