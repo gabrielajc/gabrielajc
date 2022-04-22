@@ -1,5 +1,5 @@
 # Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-[![Front-End Developer, on a journey to be a Fullstack](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)]
+[![Front-End Developer, on a journey to be a Fullstack](https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!)](https://git.io/typing-svg)
 
 :computer: Systems Analysis and Development student, I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript.
 
