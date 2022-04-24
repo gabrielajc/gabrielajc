@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">
+<img width="20px" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">
     
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html">
 
