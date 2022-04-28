@@ -1,4 +1,4 @@
-<a href="https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2" target="_blank"><img src="https://user-images.githubusercontent.com/88867709/165650195-d849a6b3-d729-472a-a622-db865cc5c8d6.gif" target="_blank"></a>
+<a href="https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2" target="_blank"><img src="https://user-images.githubusercontent.com/88867709/165653077-6aee2e42-c1be-4154-9776-693e141e322e.gif" target="_blank"></a>
     
 <div align="center">
 <img  src= "https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!" >
