@@ -1,5 +1,5 @@
 
-[![Gabriela Clemente](https://user-images.githubusercontent.com/88867709/165650195-d849a6b3-d729-472a-a622-db865cc5c8d6.gif)](https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2)
+[![Gabriela Clemente](https://user-images.githubusercontent.com/88867709/165650195-d849a6b3-d729-472a-a622-db865cc5c8d6.gif)](https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2){:target="_blank" rel="noopener"}
 
 <div align="center">
 <img  src= "https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!" >
