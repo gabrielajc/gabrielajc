@@ -1,5 +1,5 @@
 
-**<h1 align="center"> Hello World, I'm Gabriela! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>**
+[![Gabriela Clemente](https://user-images.githubusercontent.com/88867709/165650195-d849a6b3-d729-472a-a622-db865cc5c8d6.gif)](https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2)
 
 <div align="center">
 <img  src= "https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer+;on+a+journey+to+be+a+Fullstack!" >
@@ -13,12 +13,12 @@
 **<h3 align="center"> Linguages and Tools.</h3>**
 <div align="center">
 <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </div>
-
+<br>
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">
     
-<img width="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html">
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html">
 
 </div>
 
