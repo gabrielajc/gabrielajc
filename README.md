@@ -7,7 +7,7 @@
 <h6 align="center">
 :computer: Systems Analysis and Development student, I’m currently learning Java, frameworks for creating API and improving my skills in Angular and Typescript. <br>
 :rocket: 2022 Goals: complete projects for all the frameworks I learn, be able to do fullstack projects and become a Junior Systems Analyst.
-</h5>
+</h6>
 
 **<h3 align="center"> Linguages and Tools.</h3>**
 <div align="center">
@@ -31,5 +31,7 @@
 
 <h6  align="center">
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it!
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! <br>
+<img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35"> <b> Online Card page: http://encr.pw/zBSoY <b>
+
 </h6>
