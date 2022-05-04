@@ -32,6 +32,4 @@
 <h6  align="center">
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! <br>
-<img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35"> <b> Online Card page: http://encr.pw/zBSoY <b>
-
 </h6>
