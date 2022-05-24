@@ -1,4 +1,4 @@
-<a href="https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2" target="_blank"><img alt="Gabriela-Clemente-Front-End-Developer" src="https://user-images.githubusercontent.com/88867709/165803398-6074e4f6-5099-4cc5-b770-146a4566e7dd.gif" target="_blank"></a>
+<a href="https://www.canva.com/design/DAE-zaPWW2U/VhdGH0i-mvpqUHfNtyEc4A/view?website#2"><img alt="Gabriela-Clemente-Front-End-Developer" src="https://user-images.githubusercontent.com/88867709/165803398-6074e4f6-5099-4cc5-b770-146a4566e7dd.gif" ></a>
     
 <div align="center">
 <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" ><img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35">
