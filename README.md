@@ -5,7 +5,7 @@
 </div>
 
 <h6 align="center">
-:computer: Systems Analysis and Development student, improving my skills in Angular :rocket: <br>
+:computer: Systems Analysis and Development student | Front-End Developer, improving my skills in Angular :rocket: <br>
 </h6>
 
 **<h3 align="center"> Linguages and Tools.</h3>**
