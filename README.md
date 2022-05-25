@@ -8,7 +8,6 @@
 :computer: Systems Analysis and Development student | Front-End Developer, improving my skills in Angular :rocket: <br>
 </h6>
 
-**<h3 align="center"> Linguages and Tools.</h3>**
 <div align="center">
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="TypeScript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </div>
 <br>
@@ -20,16 +19,13 @@
 
 </div>
 
-**<h3 align="center"> About </h3>** 
-
 <div align="center">
-    
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
 
 <h6>
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting.<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! 
 </h6>
-
     
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
+
 </div>
 
