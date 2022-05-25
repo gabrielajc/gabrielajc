@@ -23,12 +23,13 @@
 **<h3 align="center"> About </h3>** 
 
 <div align="center">
-
+    
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
 
+<h6>
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting.<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! 
+</h6>
+
+    
 </div>
 
-<h6  align="center">
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! <br>
-</h6>
