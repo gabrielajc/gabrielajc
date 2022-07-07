@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2"> 
-<img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com?color=851FF7&center=true&lines=On+a+Journey+to+be+a+FullStack!" > 
+<img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com?color=9D56F7&background=B22BFF00&center=true&lines=On+a+Journey+to+be+a+FullStack!" > 
 </a> <img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35">
 </div>
 
