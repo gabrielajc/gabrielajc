@@ -2,13 +2,15 @@
 
 <div align="center">
 <a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2"> 
+<img src=https://user-images.githubusercontent.com/88867709/178060033-1786a37d-309e-41b6-8062-77a0f112f0ed.png width="90">
 <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com?color=9D56F7&background=B22BFF00&center=true&lines=On+a+Journey+to+be+a+FullStack!" > 
-</a> <img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35">
+</a> <img src=https://user-images.githubusercontent.com/88867709/178059226-13f81b87-be46-4246-89b9-b0f6d364a78b.png width="100">
 </div>
 
 <h6 align="center">
 :computer: Systems Analysis and Development student | Angular Front-End Developer, learning JAVA :rocket: <br>
 </h6>
+
 
 <div align="center">
 <a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2">
