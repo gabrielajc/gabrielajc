@@ -1,12 +1,9 @@
-<div align="center">
-<a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2"> 
-<img src=https://user-images.githubusercontent.com/88867709/178060033-1786a37d-309e-41b6-8062-77a0f112f0ed.png width="80">
-<img alt="Hello-World!" src= "https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=4000&color=7D4ECF&center=true&lines=Welcome+to+my+portifolio" > 
-</a> <img src=https://user-images.githubusercontent.com/88867709/178059226-13f81b87-be46-4246-89b9-b0f6d364a78b.png width="80">
-</div>
+
+![Linkedin @gabeclemente](https://github.com/gabrielajc/gabrielajc/assets/88867709/ed8d9442-c9be-454a-9960-d238617db734)
+</div align="center">
 
 <h6 align="center">
-:computer: Angular and JAVA Developer
+:computer: Angular and JAVA | FullsTack Developer
 </h6>
 
 
@@ -25,7 +22,7 @@
 <div align="center">
 
 <h6>
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting.<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it! 
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
 </h6>
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
