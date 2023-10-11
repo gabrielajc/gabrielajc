@@ -25,7 +25,7 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
 </h6>
     
-[![Linkedin](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
-[![Email](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:gabeclementej@gmail.com)](mailto:gabeclementej@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:gabeclementej@gmail.com)](mailto:gabeclementej@gmail.com)
    
 </div>
